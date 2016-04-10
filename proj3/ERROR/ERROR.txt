@@ -1,0 +1,8 @@
+We are getting an Ascii error when the autograder runs test 34 and test 35 dealing with merge-Conflict.
+When we test it manually on our end, there is no issue and the contents of the file are easily readable by humans
+and match the expected output. We used a slight modification to Utils.writeContents but it still complains.
+We are thoroughly unsure of as to why this occurs.
+The method we believe this is occurring in is: 
+Gitlet.mergeConflict(File, File, String) or Gitlet.mergeStatement() where somewhere the boolean 'conflict' is not
+being correctly set.
+Thanks!
