@@ -1,0 +1,124 @@
+DB61B System.  Version 1.0
+Loaded students.db
+Loaded enrolled.db
+Loaded schedule.db
+Contents of students:
+  101 Knowles Jason F 2003 EECS 
+  102 Chan Valerie S 2003 Math 
+  103 Xavier Jonathan S 2004 LSUnd 
+  104 Armstrong Thomas F 2003 EECS 
+  105 Brown Shana S 2004 EECS 
+  106 Chan Yangfan F 2003 LSUnd 
+Search results:
+  101 2-3MWF 
+  101 1-2MWF 
+  101 11-12MWF 
+  101 9-10MWF 
+  101 230-5TuTh 
+  102 2-3MWF 
+  102 1-2MWF 
+  102 11-12MWF 
+  102 9-10MWF 
+  102 230-5TuTh 
+  103 2-3MWF 
+  103 1-2MWF 
+  103 11-12MWF 
+  103 9-10MWF 
+  103 230-5TuTh 
+  104 2-3MWF 
+  104 1-2MWF 
+  104 11-12MWF 
+  104 9-10MWF 
+  104 230-5TuTh 
+  105 2-3MWF 
+  105 1-2MWF 
+  105 11-12MWF 
+  105 9-10MWF 
+  105 230-5TuTh 
+  106 2-3MWF 
+  106 1-2MWF 
+  106 11-12MWF 
+  106 9-10MWF 
+  106 230-5TuTh 
+Search results:
+  101 2-3MWF 1 Pimentel 
+  101 1-2MWF 1 Pimentel 
+  101 11-12MWF 155 Dwinelle 
+  101 1-2MWF 2050 VLSB 
+  101 9-10MWF 2301 Tolman 
+  101 230-5TuTh 130 Wheeler 
+  102 2-3MWF 1 Pimentel 
+  102 1-2MWF 1 Pimentel 
+  102 11-12MWF 155 Dwinelle 
+  102 1-2MWF 2050 VLSB 
+  102 9-10MWF 2301 Tolman 
+  102 230-5TuTh 130 Wheeler 
+  103 2-3MWF 1 Pimentel 
+  103 1-2MWF 1 Pimentel 
+  103 11-12MWF 155 Dwinelle 
+  103 1-2MWF 2050 VLSB 
+  103 9-10MWF 2301 Tolman 
+  103 230-5TuTh 130 Wheeler 
+  104 2-3MWF 1 Pimentel 
+  104 1-2MWF 1 Pimentel 
+  104 11-12MWF 155 Dwinelle 
+  104 1-2MWF 2050 VLSB 
+  104 9-10MWF 2301 Tolman 
+  104 230-5TuTh 130 Wheeler 
+  105 2-3MWF 1 Pimentel 
+  105 1-2MWF 1 Pimentel 
+  105 11-12MWF 155 Dwinelle 
+  105 1-2MWF 2050 VLSB 
+  105 9-10MWF 2301 Tolman 
+  105 230-5TuTh 130 Wheeler 
+  106 2-3MWF 1 Pimentel 
+  106 1-2MWF 1 Pimentel 
+  106 11-12MWF 155 Dwinelle 
+  106 1-2MWF 2050 VLSB 
+  106 9-10MWF 2301 Tolman 
+  106 230-5TuTh 130 Wheeler
+Search results:
+  101 2-3MWF 1 Pimentel 
+  101 1-2MWF 1 Pimentel 
+  101 11-12MWF 155 Dwinelle 
+  101 1-2MWF 2050 VLSB 
+  101 9-10MWF 2301 Tolman 
+  101 230-5TuTh 130 Wheeler 
+Search results:
+  101 Knowles Jason 
+  102 Chan Valerie 
+  103 Xavier Jonathan 
+  104 Armstrong Thomas 
+  105 Brown Shana 
+  106 Chan Yangfan 
+Search results:
+  101 2-3MWF 
+  101 1-2MWF 
+  101 11-12MWF 
+  101 9-10MWF 
+  101 230-5TuTh 
+  102 2-3MWF 
+  102 1-2MWF 
+  102 11-12MWF 
+  102 9-10MWF 
+  102 230-5TuTh 
+  103 2-3MWF 
+  103 1-2MWF 
+  103 11-12MWF 
+  103 9-10MWF 
+  103 230-5TuTh 
+  104 2-3MWF 
+  104 1-2MWF 
+  104 11-12MWF 
+  104 9-10MWF 
+  104 230-5TuTh 
+  105 2-3MWF 
+  105 1-2MWF 
+  105 11-12MWF 
+  105 9-10MWF 
+  105 230-5TuTh 
+  106 2-3MWF 
+  106 1-2MWF 
+  106 11-12MWF 
+  106 9-10MWF 
+  106 230-5TuTh 

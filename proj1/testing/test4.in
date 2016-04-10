@@ -1,0 +1,17 @@
+load students;
+load enrolled;
+load schedule;
+
+print students;
+
+select students.SID as a, schedule.Time as b from students, schedule;
+
+select SID, Time, Room from students, schedule;
+
+select SID, Time, Room from students, schedule where SID = '101';
+
+select SID as a, Lastname as b, Firstname as c from students;
+
+select students.SID as b, Time from students, schedule;
+
+quit;
