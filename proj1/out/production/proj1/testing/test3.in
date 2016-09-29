@@ -1,0 +1,30 @@
+
+load students;
+
+select students.SID from students;
+
+create table pokemon (Name, Level, Ball);
+
+insert into pokemon values 'Charizard', '80', 'Pokeball';
+
+insert into pokemon values 'Pikachu', '60', 'Masterball';
+
+insert into pokemon values 'Charizard', '80', 'Pokeball';
+
+insert into pokemon values 'Caterpie', '10', 'Pokeball';
+
+insert into pokemon values 'Metapod', '40', 'Greatball';
+
+print pokemon;
+
+store pokemon;
+
+create table pokemon (None);
+
+print pokemon;
+
+load pokemon;
+
+print pokemon;
+
+quit;
