@@ -1,0 +1,11 @@
+# Check that set is working position is right.
+java -ea loa.Main
+None
+===#1===
+dump
+set c3 b
+dump
+set c4 b
+dump
+quit
+
