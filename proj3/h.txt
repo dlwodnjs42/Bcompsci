@@ -1,0 +1,8 @@
+java gitlet.Main init
+java gitlet.Main add t.txt
+java gitlet.Main add x.txt
+java gitlet.Main commit “Two Files”
+java gitlet.Main branch other
+java gitlet.Main add h.txt
+java gitlet.Main rm t.txt
+make

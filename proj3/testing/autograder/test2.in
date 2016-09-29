@@ -1,0 +1,50 @@
+> init
+<<<
++ wug.txt wug.txt
+> add wug.txt
+<<<
+> commit "added wug"
+<<<
+D HEADER "Commit [a-f0-9]+"
+D DATE "\d\d\d\d-\d\d-\d\d\s+\d\d:\d\d:\d\d"
+> branch proj1
+<<<
+> checkout proj1
+<<<
++ t.txt wug.txt
+> add t.txt
+<<<
+> commit "added t.txt"
+<<<
+D HEADER "Commit [a-f0-9]+"
+D DATE "\d\d\d\d-\d\d-\d\d\s+\d\d:\d\d:\d\d"
+> checkout master
+<<<
++ y.txt wug.txt
+> add y.txt
+<<<
+> commit "added y.txt"
+<<<
+D HEADER "Commit [a-f0-9]+"
+D DATE "\d\d\d\d-\d\d-\d\d\s+\d\d:\d\d:\d\d"
+> global-log
+===
+${HEADER}
+${DATE}
+added t.txt
+
+===
+${HEADER}
+${DATE}
+added wug
+
+===
+${HEADER}
+${DATE}
+initial commit
+
+===
+${HEADER}
+${DATE}
+added y.txt
+<<<*
