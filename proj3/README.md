@@ -1,8 +1,8 @@
 # GITLET
 
-##This version-control system mimics some of the basic features of the popular version-control system git, but it is smaller and simpler.
+## This version-control system mimics some of the basic features of the popular version-control system git, but it is smaller and simpler.
 
-###Main Functionality
+### Main Functionality
 
  Saving backups of directories of files. In gitlet, this is called committing, and the backups themselves are called commits.
 Restoring a backup version of one or more files or entire commits. In gitlet, this is called checking out those files or that commit.
